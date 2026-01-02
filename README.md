@@ -17,7 +17,7 @@ The project demonstrates end-to-end SQL skills including relational schema desig
 ---
 
 ## Project Structure
-
+```bash
 sql-music-store-data-analysis/
 │
 ├── schema/
@@ -36,7 +36,7 @@ sql-music-store-data-analysis/
 │ └── Music_Store_Data_Analysis.pdf
 │
 └── README.md
-
+```
 
 ---
 
