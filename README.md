@@ -61,6 +61,24 @@ This approach reflects real-world scenarios where different data sources and ing
 
 ---
 
+## Sample Query Results
+
+### Top Customers by Total Spending
+![Top Customers](screenshots/top_customers_by_total_spending.png)
+
+### Revenue by Country
+![Revenue by Country](screenshots/revenue_by_country.png)
+
+### Revenue by City
+![Revenue by City](screenshots/revenue_by_city.png)
+
+### Top Artists by Revenue
+![Top Artists](screenshots/top_artists_by_revenue.png)
+
+### Most Popular Genre by Country
+![Popular Genre](screenshots/most_popular_genre_by_country.png)
+
+
 ## How to Run the Project
 
 1. Execute the database schema script:
