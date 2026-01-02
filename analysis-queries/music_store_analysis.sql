@@ -1,1 +1,4 @@
-
+-- Music Store Business Analysis
+-- Author: Manikanta Chundu
+-- Description: SQL queries answering real-world business
+-- questions related to revenue, customers, artists, and genres.
