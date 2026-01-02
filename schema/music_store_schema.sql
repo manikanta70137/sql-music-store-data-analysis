@@ -1,1 +1,4 @@
-
+-- Music Store Database Schema
+-- Author: Manikanta Chundu
+-- Description: Defines relational schema for a digital music store,
+-- including customers, invoices, tracks, artists, and playlists.
